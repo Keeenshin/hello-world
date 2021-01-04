@@ -1,9 +1,12 @@
 # hello-world
-OOP
+Group 7 Members
 
-
-HI I'M JERICHO GARBIDA. FINALLY I GET TO LEARN WHAT GITHUB IS FOR!
-
-Second try of pulling off requests 
-
-Let's try again
+CJ Lopez
+Crystal Reign
+James Amolato
+Jericho Garbida
+John Mikko Lorico Manguerra
+Mark Montenegro
+Melchor Amante
+Michael Virtucio
+Princess Padual
